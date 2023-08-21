@@ -1,6 +1,6 @@
 
 :root{
-    --cor-de-fundo: #224813;
+    --cor-de-fundo: #382a06;
     --branco-principal: #d7bcb7;
     --fundo-degrade: #461a0f,#b5aa73;
 }
@@ -60,5 +60,8 @@ header{
 }
 
 @media screen and (min-width: 1024px) {
-   
+    .tema__titulo{
+       color: #368417;
+       font-size: 98px;
+    }  
 }
